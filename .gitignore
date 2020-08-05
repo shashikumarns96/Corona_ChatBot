@@ -10,9 +10,5 @@ ENV/
 # idea
 .idea
 .idea/
-_pycache/
+__pycache__/
 
-#training data
-training_data/
-
-Chatbot_gif_video/

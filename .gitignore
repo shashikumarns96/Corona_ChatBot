@@ -1,0 +1,18 @@
+# Environments
+.env
+.env1
+.venv
+env/
+env1/
+venv/
+ENV/
+
+# idea
+.idea
+.idea/
+_pycache/
+
+#training data
+training_data/
+
+Chatbot_gif_video/

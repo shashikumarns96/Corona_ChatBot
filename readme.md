@@ -3,7 +3,7 @@
 ## This is built using the Flask Web Framework, Chatbot (ML Library) and chatterbot-corpus 
 
 ### To setup this webpage.
-### run the requirements.txt file by using the below command.
+### Please install below Packages.
 
 ```python
 pip install Flask
